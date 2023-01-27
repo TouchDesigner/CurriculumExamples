@@ -9,8 +9,8 @@ navigator_link_struct = "?actionable=1&action=load_tox&remotePath={url}"
 
 # NOTE - directories that will be used to generate manifest and download lists
 new_release_paths = [
-    'toxExamples\sweet16',
-    'toxExamples\TouchDesignerFundamentals']
+    'toxExamples/sweet16',
+    'toxExamples/TouchDesignerFundamentals']
 
 # NOTE - creates download manifest
 # create download manifest
