@@ -1,0 +1,52 @@
+import os
+
+#NOTE - download_link_struct
+repo_owner = "TouchDesigner"
+repo_name = "CurriculumExamples"
+branch_name = "main"
+link_struct = "https://github.com/{repo_owner}/{repo_name}/raw/{branch_name}/{asset_path}"
+navigator_link_struct = "?actionable=1&action=load_tox&remotePath={url}"
+
+# NOTE - directories that will be used to generate manifest and download lists
+new_release_paths = [
+    'toxExamples/sweet16',
+    'toxExamples/TouchDesignerFundamentals']
+
+# NOTE - creates download manifest
+# create download manifest
+for each_release_path in new_release_paths:
+    manifest = f"{each_release_path}/manifest.txt"
+    curriculum_links = f"{each_release_path}/curriculum_links.txt"
+    
+    # generate tox download manifest
+    print(f"creating manifest {manifest}")
+    with open(manifest, 'w') as manifest_file:
+        for root, dirs, files in os.walk(each_release_path):
+            for each_file in files:
+                if each_file.endswith(".tox"):
+                    tox_path = f'{root}/{each_file}'
+                    tox_url = link_struct.format(
+                        repo_owner=repo_owner,
+                        repo_name=repo_name,
+                        branch_name=branch_name,
+                        asset_path=tox_path)
+                    manifest_file.write(f'{tox_url}\n')
+
+    # generate curriculum links
+    print(f"creating curriculum links {curriculum_links}")    
+    with open(curriculum_links, 'w') as curriculum_links_file:
+        for root, dirs, files in os.walk(each_release_path):
+            for each_file in files:
+                if each_file.endswith(".tox"):
+                    tox_path = f'{root}/{each_file}'
+                    tox_url = link_struct.format(
+                        repo_owner=repo_owner,
+                        repo_name=repo_name,
+                        branch_name=branch_name,
+                        asset_path=tox_path)
+                    nav_link = navigator_link_struct.format(url=tox_url)
+                    curriculum_links_file.write(f'TOX | {each_file}\n')
+                    curriculum_links_file.write(f'{nav_link}\n')
+                    curriculum_links_file.write(f'{tox_url}\n')
+                    curriculum_links_file.write('\n')
+
