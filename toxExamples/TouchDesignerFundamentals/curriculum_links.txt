@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2023-01-28 20:13:12.059360
+Curriculum links Manifest | Last Modified 2023-01-28 20:14:59.922220
  
 TOX | TDFundamentals-104-3dGeometryCOMPFeatures.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3dGeometryCOMPFeatures.tox
