@@ -1,3 +1,5 @@
+TOX Download Manifest | Last Modified 2023-01-28 20:13:12.058975
+ 
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3dGeometryCOMPFeatures.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-essentialProceduralModeling.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-basicRenderSetup.tox
