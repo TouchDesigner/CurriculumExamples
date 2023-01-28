@@ -8,21 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Run a python script
+    - name: Running python build_file_list script
       run: python ./.github/workflows/build_file_list.py
-    - name: set username
-      run: git config --global user.name AUTOMATION
-    - name: set email
-      run: git config --global user.email "AUTOMATION@sudomagic.com"
-    - name: check for changes
-      run: git status
-    - name: stage changed files
-      run: git add .
-    - name: commit changed files
-      run: git commit -m "Auto updating release dir and release manifests"
-#change to branch name
-    - name: fetch
-      run: git fetch
-#change to branch name
-    - name: push code
-      run: git push
+    - name: Push changes
+      run: |
+        git config --global user.name AUTOMATION
+        git config --global user.email "AUTOMATION@sudomagic.com"
+        git status
+        git add .
+        git commit -m "Auto updating release manifests"
+        git push
