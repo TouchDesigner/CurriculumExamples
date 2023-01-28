@@ -15,6 +15,7 @@ an example set for a local store.
 '''
 
 import os
+import datetime
 
 # NOTE - repo variables
 repo_owner = "TouchDesigner"
@@ -30,7 +31,7 @@ new_release_paths = [
     'toxExamples/sweet16',
     'toxExamples/TouchDesignerFundamentals']
 
-print("- "*10, '\n', "->Starting automated file generation\n", "- "*10)
+print("- "*10, '\n', "-> Starting automated file generation\n", "- "*10)
 
 # NOTE - creates download manifest
 # create download manifest
@@ -43,11 +44,13 @@ for each_release_path in new_release_paths:
     for each_manifest in url_manifests:
         if os.path.isfile(each_manifest):
             os.remove(each_manifest)
-            print(f"-->Removing file {each_manifest}")
+            print(f"--> Removing file {each_manifest}")
 
     # generate tox download manifest
-    print(f"--->Creating manifest {manifest}")
+    print(f"---> Creating manifest {manifest}")
     with open(manifest, 'w') as manifest_file:
+        header_line = f"TOX Download Manifest | Last Modified {datetime.datetime.now()}\n \n"
+        manifest_file.write(header_line)
         for root, dirs, files in os.walk(each_release_path):
             for each_file in files:
                 if each_file.endswith(".tox"):
@@ -60,8 +63,10 @@ for each_release_path in new_release_paths:
                     manifest_file.write(f'{tox_url}\n')
 
     # generate curriculum links
-    print(f"--->Creating curriculum links {curriculum_links}")    
+    print(f"---> Creating curriculum links {curriculum_links}")    
     with open(curriculum_links, 'w') as curriculum_links_file:
+        header_line = f"Curriculum links Manifest | Last Modified {datetime.datetime.now()}\n \n"
+        curriculum_links_file.write(header_line)
         for root, dirs, files in os.walk(each_release_path):
             for each_file in files:
                 if each_file.endswith(".tox"):
@@ -76,6 +81,5 @@ for each_release_path in new_release_paths:
                     curriculum_links_file.write(f'{nav_link}\n')
                     curriculum_links_file.write(f'{tox_url}\n')
                     curriculum_links_file.write('\n')
-    print('\n')
 
-print("- "*10, '\n', "->Automated file generation completed\n", "- "*10)
+print("- "*10, '\n', "-> Automated file generation completed\n", "- "*10)
