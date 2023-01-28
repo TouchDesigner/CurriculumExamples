@@ -30,7 +30,7 @@ new_release_paths = [
     'toxExamples/sweet16',
     'toxExamples/TouchDesignerFundamentals']
 
-print("->Starting automated file generation")
+print("- "*10, '\n', "->Starting automated file generation\n", "- "*10)
 
 # NOTE - creates download manifest
 # create download manifest
@@ -43,10 +43,10 @@ for each_release_path in new_release_paths:
     for each_manifest in url_manifests:
         if os.path.isfile(each_manifest):
             os.remove(each_manifest)
-            print(f"-->removing file {each_manifest}")
+            print(f"-->Removing file {each_manifest}")
 
     # generate tox download manifest
-    print(f"--->creating manifest {manifest}")
+    print(f"--->Creating manifest {manifest}")
     with open(manifest, 'w') as manifest_file:
         for root, dirs, files in os.walk(each_release_path):
             for each_file in files:
@@ -60,7 +60,7 @@ for each_release_path in new_release_paths:
                     manifest_file.write(f'{tox_url}\n')
 
     # generate curriculum links
-    print(f"--->creating curriculum links {curriculum_links}")    
+    print(f"--->Creating curriculum links {curriculum_links}")    
     with open(curriculum_links, 'w') as curriculum_links_file:
         for root, dirs, files in os.walk(each_release_path):
             for each_file in files:
@@ -76,5 +76,6 @@ for each_release_path in new_release_paths:
                     curriculum_links_file.write(f'{nav_link}\n')
                     curriculum_links_file.write(f'{tox_url}\n')
                     curriculum_links_file.write('\n')
+    print('\n')
 
-print("Automated file generation completed")
+print("- "*10, '\n', "->Automated file generation completed\n", "- "*10)
