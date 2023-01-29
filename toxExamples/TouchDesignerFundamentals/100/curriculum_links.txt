@@ -1,0 +1,276 @@
+TOX | TDFundamentals-104-3dGeometryCOMPFeatures.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-3dGeometryCOMPFeatures.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-3dGeometryCOMPFeatures.tox
+
+TOX | TDFundamentals-104-essentialProceduralModeling.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-essentialProceduralModeling.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-essentialProceduralModeling.tox
+
+TOX | TDFundamentals-104-basicRenderSetup.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-basicRenderSetup.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-basicRenderSetup.tox
+
+TOX | TDFundamentals-104-3dPrimitives.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-3dPrimitives.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-3dPrimitives.tox
+
+TOX | TDFundamentals-104-lightAndShadows.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-lightAndShadows.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-lightAndShadows.tox
+
+TOX | TDFundamentals-104-animatingSOPs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-animatingSOPs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-animatingSOPs.tox
+
+TOX | TDFundamentals-104-workingWithCameras.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-workingWithCameras.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-workingWithCameras.tox
+
+TOX | TDFundamentals-104-texturingGeometryWithMATs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-texturingGeometryWithMATs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-texturingGeometryWithMATs.tox
+
+TOX | TDFundamentals-104-physicallyBasedRendering.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-physicallyBasedRendering.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/104/TDFundamentals-104-physicallyBasedRendering.tox
+
+TOX | TDFundamentals-108-interoperabilityOpportunities.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-interoperabilityOpportunities.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-interoperabilityOpportunities.tox
+
+TOX | TDFundamentals-108-exploringExamplesInOPSnippets.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox
+
+TOX | TDFundamentals-108-theTouchDesinerWiki.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-theTouchDesinerWiki.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-theTouchDesinerWiki.tox
+
+TOX | TDFundamentals-108-joinTheForum.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-joinTheForum.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-joinTheForum.tox
+
+TOX | TDFundamentals-108-TouchDesignerPythonExamples.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-TouchDesignerPythonExamples.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-TouchDesignerPythonExamples.tox
+
+TOX | TDFundamentals-108-optimization.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-optimization.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-optimization.tox
+
+TOX | TDFundamentals-108-whenDisasterStrikes.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-whenDisasterStrikes.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/108/TDFundamentals-108-whenDisasterStrikes.tox
+
+TOX | TDFundamentals-105-pathsOfOperatorsAndNetworks.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/105/TDFundamentals-105-pathsOfOperatorsAndNetworks.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/105/TDFundamentals-105-pathsOfOperatorsAndNetworks.tox
+
+TOX | TDFundamentals-105-outputtingToDisplays.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/105/TDFundamentals-105-outputtingToDisplays.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/105/TDFundamentals-105-outputtingToDisplays.tox
+
+TOX | TDFundamentals-105-performMode.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/105/TDFundamentals-105-performMode.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/105/TDFundamentals-105-performMode.tox
+
+TOX | TDFundamentals-105-organizingOperatorsAndNetworks.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/105/TDFundamentals-105-organizingOperatorsAndNetworks.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/105/TDFundamentals-105-organizingOperatorsAndNetworks.tox
+
+TOX | TDFundamentals-105-panelLayoutAndOrganization.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/105/TDFundamentals-105-panelLayoutAndOrganization.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/105/TDFundamentals-105-panelLayoutAndOrganization.tox
+
+TOX | TDFundamentals-106-buildingRelationshipsBetweenParameters.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-buildingRelationshipsBetweenParameters.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-buildingRelationshipsBetweenParameters.tox
+
+TOX | TDFundamentals-106-paletteWidgets.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-paletteWidgets.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-paletteWidgets.tox
+
+TOX | TDFundamentals-106-workingWithPanels.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-workingWithPanels.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-workingWithPanels.tox
+
+TOX | TDFundamentals-106-fastUIsWithParameterCOMPs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-fastUIsWithParameterCOMPs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-fastUIsWithParameterCOMPs.tox
+
+TOX | TDFundamentals-106-blocksAndAnchors.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-blocksAndAnchors.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-blocksAndAnchors.tox
+
+TOX | TDFundamentals-106-uiAndDisplayArrangement.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-uiAndDisplayArrangement.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/106/TDFundamentals-106-uiAndDisplayArrangement.tox
+
+TOX | TDFundamentals-107-loadingDataSourcesFromTheWeb.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-loadingDataSourcesFromTheWeb.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-loadingDataSourcesFromTheWeb.tox
+
+TOX | TDFundamentals-107-referencesAndBindingInParameters.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-referencesAndBindingInParameters.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-referencesAndBindingInParameters.tox
+
+TOX | TDFundamentals-107-evaluatingExpressions.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-evaluatingExpressions.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-evaluatingExpressions.tox
+
+TOX | TDFundamentals-107-executeAndCallbackAnatomy.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-executeAndCallbackAnatomy.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-executeAndCallbackAnatomy.tox
+
+TOX | TDFundamentals-107-readingAndUsingTheTextport.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-readingAndUsingTheTextport.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-readingAndUsingTheTextport.tox
+
+TOX | TDFundamentals-107-essentialPythonExpressions.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-essentialPythonExpressions.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-essentialPythonExpressions.tox
+
+TOX | TDFundamentals-107-parsingJSON.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-parsingJSON.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-parsingJSON.tox
+
+TOX | TDFundamentals-107-textAndTables.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-textAndTables.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-textAndTables.tox
+
+TOX | TDFundamentals-107-scriptingEventsWithCallbacks.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-scriptingEventsWithCallbacks.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/107/TDFundamentals-107-scriptingEventsWithCallbacks.tox
+
+TOX | TDFundamentals-101-DATs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-DATs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-DATs.tox
+
+TOX | TDFundamentals-101-CHOPs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-CHOPs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-CHOPs.tox
+
+TOX | TDFundamentals-101-COMPs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-COMPs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-COMPs.tox
+
+TOX | TDFundamentals-101-SOPs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-SOPs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-SOPs.tox
+
+TOX | TDFundamentals-101-opWiresReferencesAndLinks.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-opWiresReferencesAndLinks.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-opWiresReferencesAndLinks.tox
+
+TOX | TDFundamentals-101-operatorAnatomy.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-operatorAnatomy.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-operatorAnatomy.tox
+
+TOX | TDFundamentals-101-networkAnatomy.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-networkAnatomy.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-networkAnatomy.tox
+
+TOX | TDFundamentals-101-OPCreateDialog.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-OPCreateDialog.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-OPCreateDialog.tox
+
+TOX | TDFundamentals-101-TOPs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-TOPs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-TOPs.tox
+
+TOX | TDFundamentals-101-userInterface.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-userInterface.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/101/TDFundamentals-101-userInterface.tox
+
+TOX | TDFundamentals-102-saveingImagesAndVideo.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-saveingImagesAndVideo.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-saveingImagesAndVideo.tox
+
+TOX | TDFundamentals-102-routingYourContent.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-routingYourContent.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-routingYourContent.tox
+
+TOX | TDFundamentals-102-creatingABloomEffect.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-creatingABloomEffect.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-creatingABloomEffect.tox
+
+TOX | TDFundamentals-102-basicCompositing.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-basicCompositing.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-basicCompositing.tox
+
+TOX | TDFundamentals-102-shapesAndColors.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-shapesAndColors.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-shapesAndColors.tox
+
+TOX | TDFundamentals-102-workingWithImageFiles.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-workingWithImageFiles.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-workingWithImageFiles.tox
+
+TOX | TDFundamentals-102-workingWithVideoFiles.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-workingWithVideoFiles.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-workingWithVideoFiles.tox
+
+TOX | TDFundamentals-102-creatingFeedback.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-creatingFeedback.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-creatingFeedback.tox
+
+TOX | TDFundamentals-102-builidingPatterns.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-builidingPatterns.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-builidingPatterns.tox
+
+TOX | TDFundamentals-102-mattesAndMasks.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-mattesAndMasks.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-mattesAndMasks.tox
+
+TOX | TDFundamentals-102-liveSources.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-liveSources.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-liveSources.tox
+
+TOX | TDFundamentals-102-adjustingImages.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-adjustingImages.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/102/TDFundamentals-102-adjustingImages.tox
+
+TOX | TDFundamentals-103-CHOPMath.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-CHOPMath.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-CHOPMath.tox
+
+TOX | TDFundamentals-103-timeAndEvents.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-timeAndEvents.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-timeAndEvents.tox
+
+TOX | TDFundamentals-103-manipulatingAudio.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-manipulatingAudio.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-manipulatingAudio.tox
+
+TOX | TDFundamentals-103-inputSignalsAndSimulation.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-inputSignalsAndSimulation.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-inputSignalsAndSimulation.tox
+
+TOX | TDFundamentals-103-eventHistory.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-eventHistory.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-eventHistory.tox
+
+TOX | TDFundamentals-103-workingWithSingleSampleCHOPs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-workingWithSingleSampleCHOPs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-workingWithSingleSampleCHOPs.tox
+
+TOX | TDFundamentals-103-creatingPatternsWithCHOPs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-creatingPatternsWithCHOPs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-creatingPatternsWithCHOPs.tox
+
+TOX | TDFundamentals-103-kinectCHOP.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-kinectCHOP.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-kinectCHOP.tox
+
+TOX | TDFundamentals-103-controllingOPsWithCHOPs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-controllingOPsWithCHOPs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-controllingOPsWithCHOPs.tox
+
+TOX | TDFundamentals-103-signalRouting.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-signalRouting.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-signalRouting.tox
+
+TOX | TDFundamentals-103-workingWithMultiSampleCHOPs.tox
+Navigator Link | ?actionable=1&action=load_tox&remotePath=https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-workingWithMultiSampleCHOPs.tox
+LearnDash Link | https://github.com/SudoMagicCode/TouchDesigner-curriculum-code/raw/main/release/100/103/TDFundamentals-103-workingWithMultiSampleCHOPs.tox
+
