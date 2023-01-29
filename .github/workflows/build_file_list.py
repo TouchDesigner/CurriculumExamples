@@ -29,7 +29,7 @@ navigator_link_struct = "?actionable=1&action=load_tox&remotePath={url}"
 # NOTE - directories that will be used to generate manifest and download lists
 new_release_paths = [
     'toxExamples/sweet16',
-    'toxExamples/TouchDesignerFundamentals']
+    'toxExamples/TouchDesignerFundamentals/100']
 
 print("- "*10, '\n', "-> Starting automated file generation\n", "- "*10)
 
