@@ -1,4 +1,4 @@
-TOX Download Manifest | Last Modified 2023-01-29 05:37:23.701886
+TOX Download Manifest | Last Modified 2023-02-11 08:17:13.280428
  
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16FacetSOP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SortSOP.tox
