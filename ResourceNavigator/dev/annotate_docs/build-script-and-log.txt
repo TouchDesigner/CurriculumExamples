@@ -1,0 +1,1 @@
+text_build runs an automated build process to generate a tox in the directory labelled release. The Text DAT text_build_log is an output target for build process steps.

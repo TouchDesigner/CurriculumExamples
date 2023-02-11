@@ -62,9 +62,8 @@ class NavController:
     nav_example_header = parent.Navigator.op('base_assets/NavigatorExample')
 
     def __init__(self, ownerOp):
-        """
+        '''
         EXT Init 
-
 
         Args
         ---------------
@@ -90,7 +89,7 @@ class NavController:
         url (str)
         > The URL from the webBrowser COMP
 
-        """
+        '''
 
         qs_result = self.query_string_parse(url)
         key_list = [key for key in qs_result.keys()]
