@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2023-02-11 08:17:13.281509
+Curriculum links Manifest | Last Modified 2023-02-15 21:46:03.228246
  
 TOX | TDFundamentals-104-3dGeometryCOMPFeatures.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3dGeometryCOMPFeatures.tox
@@ -43,6 +43,10 @@ https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDe
 TOX | TDFundamentals-108-exploringExamplesInOPSnippets.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox
+
+TOX | TDFundamentals-108-exploringThePalette.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringThePalette.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringThePalette.tox
 
 TOX | TDFundamentals-108-theTouchDesinerWiki.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-theTouchDesinerWiki.tox

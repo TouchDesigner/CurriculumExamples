@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2023-02-11 08:17:13.280755
+Curriculum links Manifest | Last Modified 2023-02-15 21:46:03.227454
  
 TOX | sweet16FacetSOP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16FacetSOP.tox

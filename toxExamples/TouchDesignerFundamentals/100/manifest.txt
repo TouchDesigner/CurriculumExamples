@@ -1,4 +1,4 @@
-TOX Download Manifest | Last Modified 2023-02-11 08:17:13.281146
+TOX Download Manifest | Last Modified 2023-02-15 21:46:03.227847
  
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3dGeometryCOMPFeatures.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-essentialProceduralModeling.tox
@@ -11,6 +11,7 @@ https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDe
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-physicallyBasedRendering.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-interoperabilityOpportunities.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringThePalette.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-theTouchDesinerWiki.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-joinTheForum.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-TouchDesignerPythonExamples.tox
