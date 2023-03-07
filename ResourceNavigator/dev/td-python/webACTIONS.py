@@ -27,7 +27,13 @@ examples:
 ?actionable=1&action=open_in_browser
 
 ?actionable=1&action=update_td_pars&somePar=someVal
+
+?actionable=1&action=download_manifest&manifest=someUrl&dirName=someDirName
 """
+
+import os
+import pathlib
+import requests
 
 Navigator = op.TDCN
 
@@ -127,3 +133,60 @@ def update_td_pars(qs_results:dict) -> None:
     Navigator.ext.NavController.remove_qs_from_path()
     pass
 
+def download_manifest(qs_results:dict) -> None:
+    manifest = qs_results.get('manifest')[0]
+    dir_name = qs_results.get('dirName')[0]
+    print(dir_name)
+    user_palette_dir = pathlib.Path(app.userPaletteFolder)
+    cache_folder = user_palette_dir.parent.absolute()
+    nav_root_path = f'{cache_folder}\\navigator'
+    download_path = f'{cache_folder}\\navigator\\{dir_name}'
+
+    if manifest != None:
+        
+        # check to see if directory exists
+        if os.path.isdir(download_path):
+            print('🧭 TD Navigator | navigator root path exists')
+        
+        else:
+            # create root dir if it does not yet exist
+            os.makedirs(download_path, exist_ok=True)
+            print('🧭 TD Navigator | navigator root path does not exist, creating dir')
+        
+        # generate asset list        
+        # request data
+        request = requests.get(manifest)
+
+        # check status code
+        if request.status_code == 200:
+            manifest_text = request.text
+            lines = manifest_text.splitlines()
+            tox_links = [each_line for each_line in lines if each_line[0:4] == 'http']
+
+            for each_link in tox_links:
+                print(each_link.split('/')[-1])
+
+            # download files
+            Navigator.op('base_threaded_downloader').par.Cachelocation = download_path
+            Navigator.op('base_threaded_downloader').Fetch_files(tox_links)
+
+            # callback to open a file explorer
+            def buttonChoice(info):
+                if info['buttonNum'] == 2:
+                    ui.viewFile(download_path)
+                else:
+                    pass
+            
+            # opens a popdialog to alert the user about the download
+            op.TDResources.PopDialog.OpenDefault(
+                title = 'Downloading Example TOX Files',
+                text='The Navigator is currently caching TOX examples for offline review',
+                buttons=['Close', 'Open'],
+                callback=buttonChoice,
+                textEntry=False,
+                escOnClickAway=False
+            )
+            # clear qs from path
+            Navigator.ext.NavController.remove_qs_from_path()
+        pass
+    pass

@@ -198,7 +198,7 @@ class NavController:
                 debug(f"🧭 TD Navigator | {e}")
             else:
                 pass
-
+    
     def clear_view(self):
         """
         Clear display buffer of any ops
@@ -208,18 +208,18 @@ class NavController:
         for each in NavController.disp_buffer.findChildren(depth=1):
             each.destroy()
 
-    def set_timer_play(self, playVal):
-        """
-        Start timer's play
+    # def set_timer_play(self, playVal):
+    #     """
+    #     Start timer's play
 
-        Args
-        ---------------
-        playVal (bool)
-        > The play parameter value to be passed to the timer CHOP
+    #     Args
+    #     ---------------
+    #     playVal (bool)
+    #     > The play parameter value to be passed to the timer CHOP
 
-        """
-        NavController.trans_timer.par['play'] = playVal
-        self.qu
+    #     """
+    #     NavController.trans_timer.par['play'] = playVal
+    #     self.qu
 
     def toggle_settings(self):
         """

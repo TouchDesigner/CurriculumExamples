@@ -20,8 +20,7 @@ class downlaoderAgent:
         '''Accepts a list of links to download
         '''
         cache_dir = self.Owner.par.Cachelocation.eval()
-        project_dir = project.folder
-        target_dir = f"{project_dir}/{cache_dir}"
+        target_dir = cache_dir
 
         # check to make sure our target dir exists
         if os.path.isdir(target_dir):
@@ -44,7 +43,7 @@ class downlaoderAgent:
 
         # threaded downloader
         for each_item in manifest:
-            base_name = parse_qs(each_item)['path'][0].replace('/', '.')
+            base_name = each_item.split('/')[-1]
             local_file_path = f"{target_dir}/{base_name}"
 
             # skip files that already exist

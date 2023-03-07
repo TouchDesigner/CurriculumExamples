@@ -2,7 +2,7 @@ from datetime import datetime
 
 build_destination = "../release"
 build_name = "td_navigator"
-build_version = str("0.0.6")
+build_version = str("0.1.0")
 build_log = op('text_build_log')
 build_buffer = op('/sys/quiet')
 
