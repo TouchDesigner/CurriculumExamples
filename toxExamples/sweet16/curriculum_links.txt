@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2023-03-08 04:58:13.610727
+Curriculum links Manifest | Last Modified 2023-03-08 05:14:04.322031
  
 TOX | sweet16ChopexecDAT.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16ChopexecDAT.tox

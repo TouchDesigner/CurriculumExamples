@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2023-03-08 04:58:13.611493
+Curriculum links Manifest | Last Modified 2023-03-08 05:14:04.322804
  
 TOX | TDFundamentals-106-customParameters.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-customParameters.tox
