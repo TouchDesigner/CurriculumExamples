@@ -36,6 +36,7 @@ import pathlib
 import requests
 
 Navigator = op.TDCN
+cached_tox_dir_name = "Curriculum"
 
 def load_tox(qs_results:dict) -> None:
     """
@@ -139,8 +140,8 @@ def download_manifest(qs_results:dict) -> None:
     print(dir_name)
     user_palette_dir = pathlib.Path(app.userPaletteFolder)
     cache_folder = user_palette_dir.parent.absolute()
-    nav_root_path = f'{cache_folder}\\navigator'
-    download_path = f'{cache_folder}\\navigator\\{dir_name}'
+    nav_root_path = f'{cache_folder}\\{cached_tox_dir_name}'
+    download_path = f'{cache_folder}\\{cached_tox_dir_name}\\{dir_name}'
 
     if manifest != None:
         

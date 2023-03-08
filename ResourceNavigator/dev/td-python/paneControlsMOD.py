@@ -18,7 +18,7 @@ def Save_tox_copy(par):
     if par.eval():
         print("🧭 TD Navigator | Save TOX copy")
 
-        disp_buffer = Navigator.disp_buffer
+        disp_buffer = ext.NavController.disp_buffer
         current_example = disp_buffer.findChildren(type=containerCOMP)[0]
         save_ready_tox = _copy_current_example(current_example)
 
