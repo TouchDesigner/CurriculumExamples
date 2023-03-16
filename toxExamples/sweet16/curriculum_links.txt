@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2023-03-10 18:40:27.266626
+Curriculum links Manifest | Last Modified 2023-03-16 01:35:44.455281
  
 TOX | sweet16RampTOP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16RampTOP.tox
