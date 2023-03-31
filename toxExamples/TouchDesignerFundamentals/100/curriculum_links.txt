@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2023-03-16 01:42:17.808982
+Curriculum links Manifest | Last Modified 2023-03-31 22:17:30.263336
  
 TOX | TDFundamentals-106-workingWithPanels.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-workingWithPanels.tox

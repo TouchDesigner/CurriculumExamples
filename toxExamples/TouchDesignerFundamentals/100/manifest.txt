@@ -1,4 +1,4 @@
-TOX Download Manifest | Last Modified 2023-03-16 01:42:17.808617
+TOX Download Manifest | Last Modified 2023-03-31 22:17:30.262959
  
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-workingWithPanels.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-buildingRelationshipsBetweenParameters.tox
