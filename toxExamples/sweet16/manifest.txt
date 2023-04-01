@@ -1,4 +1,4 @@
-TOX Download Manifest | Last Modified 2023-03-31 22:17:30.262182
+TOX Download Manifest | Last Modified 2023-04-01 00:39:50.075593
  
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SelectCHOP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16PanelCHOP.tox
