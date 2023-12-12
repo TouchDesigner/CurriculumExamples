@@ -1,152 +1,12 @@
-Curriculum links Manifest | Last Modified 2023-04-01 00:39:50.075983
+Curriculum links Manifest | Last Modified 2023-12-12 22:50:29.783059
  
-TOX | sweet16SelectCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SelectCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SelectCHOP.tox
-
-TOX | sweet16PanelCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16PanelCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16PanelCHOP.tox
-
-TOX | sweet16NoiseCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16NoiseCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16NoiseCHOP.tox
-
-TOX | sweet16SoptoCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SoptoCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SoptoCHOP.tox
-
-TOX | sweet16SpeedCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SpeedCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SpeedCHOP.tox
-
-TOX | sweet16TimerCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16TimerCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16TimerCHOP.tox
-
-TOX | sweet16MathCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16MathCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16MathCHOP.tox
-
-TOX | sweet16ConstantCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16ConstantCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16ConstantCHOP.tox
-
-TOX | sweet16LimitCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LimitCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LimitCHOP.tox
-
-TOX | sweet16LfoCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LfoCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LfoCHOP.tox
-
-TOX | sweet16LagCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LagCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LagCHOP.tox
-
-TOX | sweet16TrailCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16TrailCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16TrailCHOP.tox
-
-TOX | sweet16LookupCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LookupCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LookupCHOP.tox
-
-TOX | sweet16AudiodevinCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16AudiodevinCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16AudiodevinCHOP.tox
-
-TOX | sweet16MergeCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16MergeCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16MergeCHOP.tox
-
-TOX | sweet16OscinCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16OscinCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16OscinCHOP.tox
-
-TOX | sweet16SelectTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16SelectTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16SelectTOP.tox
-
-TOX | sweet16OverTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16OverTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16OverTOP.tox
-
-TOX | sweet16TransformTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16TransformTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16TransformTOP.tox
-
-TOX | sweet16ReorderTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ReorderTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ReorderTOP.tox
-
-TOX | sweet16RampTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16RampTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16RampTOP.tox
-
-TOX | sweet16TextTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16TextTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16TextTOP.tox
-
-TOX | sweet16ResolutionTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ResolutionTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ResolutionTOP.tox
-
-TOX | sweet16CompositeTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CompositeTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CompositeTOP.tox
-
-TOX | sweet16CacheTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CacheTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CacheTOP.tox
-
-TOX | sweet16RenderTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16RenderTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16RenderTOP.tox
-
-TOX | sweet16ChoptoTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ChoptoTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ChoptoTOP.tox
-
-TOX | sweet16BlurTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16BlurTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16BlurTOP.tox
-
-TOX | sweet16CropTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CropTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CropTOP.tox
-
-TOX | sweet16DispalceTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16DispalceTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16DispalceTOP.tox
-
-TOX | sweet16MovieFileInTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16MovieFileInTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16MovieFileInTOP.tox
-
-TOX | sweet16LevelTOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16LevelTOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16LevelTOP.tox
-
-TOX | sweet16TransformSOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16TransformSOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16TransformSOP.tox
+TOX | sweet16CircleSOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16CircleSOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16CircleSOP.tox
 
 TOX | sweet16NoiseSOP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16NoiseSOP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16NoiseSOP.tox
-
-TOX | sweet16DattoSOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16DattoSOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16DattoSOP.tox
-
-TOX | sweet16ClipSOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16ClipSOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16ClipSOP.tox
-
-TOX | sweet16GridSOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16GridSOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16GridSOP.tox
 
 TOX | sweet16ParticleSOP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16ParticleSOP.tox
@@ -156,103 +16,243 @@ TOX | sweet16ChoptoSOP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16ChoptoSOP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16ChoptoSOP.tox
 
-TOX | sweet16TraceSOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16TraceSOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16TraceSOP.tox
+TOX | sweet16ClipSOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16ClipSOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16ClipSOP.tox
 
-TOX | sweet16CircleSOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16CircleSOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16CircleSOP.tox
-
-TOX | sweet16SweepSOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SweepSOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SweepSOP.tox
-
-TOX | sweet16SortSOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SortSOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SortSOP.tox
+TOX | sweet16GridSOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16GridSOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16GridSOP.tox
 
 TOX | sweet16TextureSOP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16TextureSOP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16TextureSOP.tox
 
-TOX | sweet16MergeSOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16MergeSOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16MergeSOP.tox
+TOX | sweet16SortSOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SortSOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SortSOP.tox
 
 TOX | sweet16SwitchSOP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SwitchSOP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SwitchSOP.tox
 
-TOX | sweet16CopySOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16CopySOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16CopySOP.tox
+TOX | sweet16TransformSOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16TransformSOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16TransformSOP.tox
+
+TOX | sweet16SweepSOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SweepSOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SweepSOP.tox
+
+TOX | sweet16TraceSOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16TraceSOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16TraceSOP.tox
 
 TOX | sweet16FacetSOP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16FacetSOP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16FacetSOP.tox
 
-TOX | sweet16MtouchinDAT.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MtouchinDAT.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MtouchinDAT.tox
+TOX | sweet16CopySOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16CopySOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16CopySOP.tox
 
-TOX | sweet16TextDAT.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16TextDAT.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16TextDAT.tox
+TOX | sweet16DattoSOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16DattoSOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16DattoSOP.tox
 
-TOX | sweet16PanelexecDAT.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16PanelexecDAT.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16PanelexecDAT.tox
+TOX | sweet16MergeSOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16MergeSOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16MergeSOP.tox
 
-TOX | sweet16ReorderDAT.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16ReorderDAT.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16ReorderDAT.tox
+TOX | sweet16TransformTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16TransformTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16TransformTOP.tox
 
-TOX | sweet16TableDAT.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16TableDAT.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16TableDAT.tox
+TOX | sweet16LevelTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16LevelTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16LevelTOP.tox
 
-TOX | sweet16SelectDAT.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16SelectDAT.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16SelectDAT.tox
+TOX | sweet16BlurTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16BlurTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16BlurTOP.tox
 
-TOX | sweet16MidiinDAT.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MidiinDAT.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MidiinDAT.tox
+TOX | sweet16RenderTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16RenderTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16RenderTOP.tox
+
+TOX | sweet16DispalceTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16DispalceTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16DispalceTOP.tox
+
+TOX | sweet16TextTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16TextTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16TextTOP.tox
+
+TOX | sweet16RampTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16RampTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16RampTOP.tox
+
+TOX | sweet16CropTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CropTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CropTOP.tox
+
+TOX | sweet16ChoptoTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ChoptoTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ChoptoTOP.tox
+
+TOX | sweet16CompositeTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CompositeTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CompositeTOP.tox
+
+TOX | sweet16MovieFileInTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16MovieFileInTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16MovieFileInTOP.tox
+
+TOX | sweet16CacheTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CacheTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16CacheTOP.tox
+
+TOX | sweet16ResolutionTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ResolutionTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ResolutionTOP.tox
+
+TOX | sweet16OverTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16OverTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16OverTOP.tox
+
+TOX | sweet16ReorderTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ReorderTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16ReorderTOP.tox
+
+TOX | sweet16SelectTOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16SelectTOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/TOP/sweet16SelectTOP.tox
 
 TOX | sweet16ChopexecDAT.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16ChopexecDAT.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16ChopexecDAT.tox
 
+TOX | sweet16TableDAT.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16TableDAT.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16TableDAT.tox
+
 TOX | sweet16ChoptoDAT.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16ChoptoDAT.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16ChoptoDAT.tox
-
-TOX | sweet16Oscin1DAT.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16Oscin1DAT.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16Oscin1DAT.tox
-
-TOX | sweet16WebDAT.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16WebDAT.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16WebDAT.tox
 
 TOX | sweet16DatexecDAT.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16DatexecDAT.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16DatexecDAT.tox
 
+TOX | sweet16PanelexecDAT.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16PanelexecDAT.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16PanelexecDAT.tox
+
+TOX | sweet16MidiinDAT.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MidiinDAT.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MidiinDAT.tox
+
+TOX | sweet16MtouchinDAT.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MtouchinDAT.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MtouchinDAT.tox
+
+TOX | sweet16Oscin1DAT.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16Oscin1DAT.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16Oscin1DAT.tox
+
 TOX | sweet16EvaluateDAT.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16EvaluateDAT.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16EvaluateDAT.tox
-
-TOX | sweet16MergeDAT.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MergeDAT.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MergeDAT.tox
 
 TOX | sweet16InsertDAT.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16InsertDAT.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16InsertDAT.tox
 
+TOX | sweet16ReorderDAT.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16ReorderDAT.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16ReorderDAT.tox
+
+TOX | sweet16WebDAT.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16WebDAT.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16WebDAT.tox
+
+TOX | sweet16SelectDAT.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16SelectDAT.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16SelectDAT.tox
+
+TOX | sweet16TextDAT.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16TextDAT.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16TextDAT.tox
+
+TOX | sweet16MergeDAT.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MergeDAT.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16MergeDAT.tox
+
 TOX | sweet16RenderpickDAT.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16RenderpickDAT.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/DAT/sweet16RenderpickDAT.tox
+
+TOX | sweet16LfoCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LfoCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LfoCHOP.tox
+
+TOX | sweet16SelectCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SelectCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SelectCHOP.tox
+
+TOX | sweet16LookupCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LookupCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LookupCHOP.tox
+
+TOX | sweet16NoiseCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16NoiseCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16NoiseCHOP.tox
+
+TOX | sweet16MergeCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16MergeCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16MergeCHOP.tox
+
+TOX | sweet16SpeedCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SpeedCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SpeedCHOP.tox
+
+TOX | sweet16TrailCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16TrailCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16TrailCHOP.tox
+
+TOX | sweet16PanelCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16PanelCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16PanelCHOP.tox
+
+TOX | sweet16LimitCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LimitCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LimitCHOP.tox
+
+TOX | sweet16TimerCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16TimerCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16TimerCHOP.tox
+
+TOX | sweet16AudiodevinCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16AudiodevinCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16AudiodevinCHOP.tox
+
+TOX | sweet16LagCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LagCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16LagCHOP.tox
+
+TOX | sweet16OscinCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16OscinCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16OscinCHOP.tox
+
+TOX | sweet16MathCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16MathCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16MathCHOP.tox
+
+TOX | sweet16SoptoCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SoptoCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16SoptoCHOP.tox
+
+TOX | sweet16ConstantCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16ConstantCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16ConstantCHOP.tox
 
