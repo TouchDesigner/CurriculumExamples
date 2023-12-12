@@ -2,7 +2,7 @@
 rem turn off echo
 
 rem set TouchDesigner build numbers
-set TOUCHVERSION=2022.32120
+set TOUCHVERSION=2023.11290
 
 rem set our project file target
 set TOEFILE="resource-navigator.toe"

@@ -39,6 +39,6 @@ def Timer_on_done(**kwargs):
 
     '''
     Navigator.ext.NavController.loading_view.par['display'] = False
-    kwargs.get('timerOp').par.active = False
+    # kwargs.get('timerOp').par.active = False
     pass
 

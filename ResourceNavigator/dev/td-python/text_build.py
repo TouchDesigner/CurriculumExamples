@@ -1,13 +1,13 @@
-from datetime import datetime
+import datetime
 
 build_destination = "../release"
 build_name = "td_navigator"
-build_version = str("0.1.1")
+build_version = str("0.1.2")
 build_log = op('text_build_log')
-build_buffer = op('/sys/quiet')
+build_buffer = op('/base_build_loc')
 
 def get_time():
-    return datetime.now()
+    return datetime.datetime.now()
 
 def version(**kwargs):
     tox_version = kwargs.get('tox_version')
