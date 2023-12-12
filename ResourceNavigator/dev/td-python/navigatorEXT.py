@@ -1,4 +1,4 @@
-import urllib.request
+﻿import urllib.request
 import requests as Requests
 import parserActionsMOD
 import paneControlsMOD
@@ -170,7 +170,7 @@ class NavController:
         if NavController.nav_debug.eval():
             debug("🧭 TD Navigator | starting timer")
 
-        NavController.trans_timer.par.active = True
+        #NavController.trans_timer.par.active = True
         NavController.trans_timer.par.start.pulse()
 
     def load_remote_tox(self):
