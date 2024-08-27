@@ -23,14 +23,16 @@ repo_owner = "TouchDesigner"
 repo_name = "CurriculumExamples"
 branch_name = "main"
 
-#NOTE - download_link_structs
+# NOTE - download_link_structs
 link_struct = "https://github.com/{repo_owner}/{repo_name}/raw/{branch_name}/{asset_path}"
 navigator_link_struct = "?actionable=1&action=load_tox&remotePath={url}"
 
 # NOTE - directories that will be used to generate manifest and download lists
 new_release_paths = [
     'toxExamples/sweet16',
-    'toxExamples/TouchDesignerFundamentals/100']
+    'toxExamples/TouchDesignerFundamentals/100',
+    'toxExamples/TouchDesignerFundamentals/200',
+]
 
 archive_dir = 'toxExamples/_zipped'
 
@@ -66,7 +68,7 @@ for each_release_path in new_release_paths:
                     manifest_file.write(f'{tox_url}\n')
 
     # generate curriculum links
-    print(f"---> Creating curriculum links {curriculum_links}")    
+    print(f"---> Creating curriculum links {curriculum_links}")
     with open(curriculum_links, 'w') as curriculum_links_file:
         header_line = f"Curriculum links Manifest | Last Modified {datetime.datetime.now()}\n \n"
         curriculum_links_file.write(header_line)
@@ -87,7 +89,7 @@ for each_release_path in new_release_paths:
 
 print("- "*10, '\n', "-> Automated file generation completed\n", "- "*10)
 
-#NOTE creates zips of TOX directories
+# NOTE creates zips of TOX directories
 
 # ensure archive directory exists
 if os.path.exists(archive_dir):
