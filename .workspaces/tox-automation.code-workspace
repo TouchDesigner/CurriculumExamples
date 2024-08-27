@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "name": "Automation",
+            "path": "../.github/workflows",
+            "cwd": "${workspaceFolder}",
+        },
+    ],
+    "settings": {
+        "workbench.colorTheme": "Crackpot Contrast (rainglow)"
+    }
+}

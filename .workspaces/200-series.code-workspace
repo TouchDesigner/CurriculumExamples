@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "name": "Sudo Widgets",
+            "path": "../TouchDesigner-Fundamentals/dev/200",
+            "cwd": "${workspaceFolder}",
+        },
+    ],
+    "settings": {
+        "files.exclude": {
+            ".dart_tool": true,
+            ".idea": true,
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            ".flutter-plugins*": true,
+            ".metadata": true,
+            "analysis_options.yaml": true,
+            "dashboard.iml": true,
+            "pubspec.lock": true,
+            "LICENSE": true,
+        },
+    }
+}
