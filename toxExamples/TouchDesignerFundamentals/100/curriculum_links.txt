@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2024-08-30 23:11:37.579660
+Curriculum links Manifest | Last Modified 2024-09-03 04:33:31.818813
  
 TOX | TDFundamentals-107-parsingJSON.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-parsingJSON.tox

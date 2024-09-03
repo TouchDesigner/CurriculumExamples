@@ -1,12 +1,16 @@
-TOX Download Manifest | Last Modified 2024-08-30 23:11:37.580153
+TOX Download Manifest | Last Modified 2024-09-03 04:33:31.819413
  
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-findingAndOrderingData.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-timer2.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-sequencingEvents.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-timer1.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-shuffle.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-dataEvents.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-timerInInteractiveSystems.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-buildingACHOPStateMachine.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-shuffleCHOP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-logicInInteractiveSystems.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-workingWithDataSets.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-recordingData.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-timecode.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/202/TDIntermediate-202-renderPasses.tox

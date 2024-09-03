@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2024-08-30 23:11:37.580334
+Curriculum links Manifest | Last Modified 2024-09-03 04:33:31.819614
  
 TOX | TDIntermediate-203-findingAndOrderingData.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-findingAndOrderingData.tox
@@ -7,6 +7,10 @@ https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDe
 TOX | TDIntermediate-203-timer2.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-timer2.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-timer2.tox
+
+TOX | TDIntermediate-203-sequencingEvents.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-sequencingEvents.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-sequencingEvents.tox
 
 TOX | TDIntermediate-203-timer1.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-timer1.tox
@@ -20,13 +24,25 @@ TOX | TDIntermediate-203-dataEvents.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-dataEvents.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-dataEvents.tox
 
+TOX | TDIntermediate-203-timerInInteractiveSystems.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-timerInInteractiveSystems.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-timerInInteractiveSystems.tox
+
 TOX | TDIntermediate-203-buildingACHOPStateMachine.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-buildingACHOPStateMachine.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-buildingACHOPStateMachine.tox
 
+TOX | TDIntermediate-203-shuffleCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-shuffleCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-shuffleCHOP.tox
+
 TOX | TDIntermediate-203-logicInInteractiveSystems.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-logicInInteractiveSystems.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-logicInInteractiveSystems.tox
+
+TOX | TDIntermediate-203-workingWithDataSets.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-workingWithDataSets.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-workingWithDataSets.tox
 
 TOX | TDIntermediate-203-recordingData.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-recordingData.tox
