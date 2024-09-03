@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2024-09-03 04:33:31.819614
+Curriculum links Manifest | Last Modified 2024-09-03 05:27:40.147000
  
 TOX | TDIntermediate-203-findingAndOrderingData.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/203/TDIntermediate-203-findingAndOrderingData.tox
