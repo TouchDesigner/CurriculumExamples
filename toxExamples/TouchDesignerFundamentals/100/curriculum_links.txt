@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2024-09-23 00:29:31.232520
+Curriculum links Manifest | Last Modified 2024-09-23 16:10:06.887492
  
 TOX | TDFundamentals-108-exploringExamplesInOPSnippets.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox

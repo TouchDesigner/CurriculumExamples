@@ -1,4 +1,4 @@
-TOX Download Manifest | Last Modified 2024-09-23 00:29:31.231419
+TOX Download Manifest | Last Modified 2024-09-23 16:10:06.886377
  
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16ParticleSOP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/SOP/sweet16SwitchSOP.tox
