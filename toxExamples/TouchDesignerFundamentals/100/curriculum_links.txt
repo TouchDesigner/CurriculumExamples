@@ -1,252 +1,24 @@
-Curriculum links Manifest | Last Modified 2024-09-03 05:27:40.146306
+Curriculum links Manifest | Last Modified 2024-09-23 00:29:31.232520
  
-TOX | TDFundamentals-107-parsingJSON.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-parsingJSON.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-parsingJSON.tox
-
-TOX | TDFundamentals-107-loadingDataSourcesFromTheWeb.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-loadingDataSourcesFromTheWeb.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-loadingDataSourcesFromTheWeb.tox
-
-TOX | TDFundamentals-107-evaluatingExpressions.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-evaluatingExpressions.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-evaluatingExpressions.tox
-
-TOX | TDFundamentals-107-scriptingEventsWithCallbacks.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-scriptingEventsWithCallbacks.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-scriptingEventsWithCallbacks.tox
-
-TOX | TDFundamentals-107-executeAndCallbackAnatomy.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-executeAndCallbackAnatomy.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-executeAndCallbackAnatomy.tox
-
-TOX | TDFundamentals-107-readingAndUsingTheTextport.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-readingAndUsingTheTextport.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-readingAndUsingTheTextport.tox
-
-TOX | TDFundamentals-107-referencesAndBindingInParameters.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-referencesAndBindingInParameters.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-referencesAndBindingInParameters.tox
-
-TOX | TDFundamentals-107-essentialPythonExpressions.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-essentialPythonExpressions.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-essentialPythonExpressions.tox
-
-TOX | TDFundamentals-107-textAndTables.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-textAndTables.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-textAndTables.tox
-
-TOX | TDFundamentals-104-animatingSOPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-animatingSOPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-animatingSOPs.tox
-
-TOX | TDFundamentals-104-3DGenerators.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3DGenerators.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3DGenerators.tox
-
-TOX | TDFundamentals-104-basicRenderSetup.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-basicRenderSetup.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-basicRenderSetup.tox
-
-TOX | TDFundamentals-104-lightAndShadows.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-lightAndShadows.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-lightAndShadows.tox
-
-TOX | TDFundamentals-104-workingWithCameras.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-workingWithCameras.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-workingWithCameras.tox
-
-TOX | TDFundamentals-104-3dGeometryCOMPFeatures.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3dGeometryCOMPFeatures.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3dGeometryCOMPFeatures.tox
-
-TOX | TDFundamentals-104-essentialProceduralModeling.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-essentialProceduralModeling.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-essentialProceduralModeling.tox
-
-TOX | TDFundamentals-104-texturingGeometryWithMATs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-texturingGeometryWithMATs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-texturingGeometryWithMATs.tox
-
-TOX | TDFundamentals-104-physicallyBasedRendering.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-physicallyBasedRendering.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-physicallyBasedRendering.tox
-
-TOX | TDFundamentals-106-buildingRelationshipsBetweenParameters.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-buildingRelationshipsBetweenParameters.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-buildingRelationshipsBetweenParameters.tox
-
-TOX | TDFundamentals-106-customParameters.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-customParameters.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-customParameters.tox
-
-TOX | TDFundamentals-106-fastUIsWithParameterCOMPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-fastUIsWithParameterCOMPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-fastUIsWithParameterCOMPs.tox
-
-TOX | TDFundamentals-106-blocksAndAnchors.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-blocksAndAnchors.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-blocksAndAnchors.tox
-
-TOX | TDFundamentals-106-workingWithPanels.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-workingWithPanels.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-workingWithPanels.tox
-
-TOX | TDFundamentals-106-paletteWidgets.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-paletteWidgets.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-paletteWidgets.tox
-
-TOX | TDFundamentals-102-builidingPatterns.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-builidingPatterns.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-builidingPatterns.tox
-
-TOX | TDFundamentals-102-adjustingImages.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-adjustingImages.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-adjustingImages.tox
-
-TOX | TDFundamentals-102-basicCompositing.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-basicCompositing.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-basicCompositing.tox
-
-TOX | TDFundamentals-102-shapesAndColors.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-shapesAndColors.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-shapesAndColors.tox
-
-TOX | TDFundamentals-102-saveingImagesAndVideo.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-saveingImagesAndVideo.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-saveingImagesAndVideo.tox
-
-TOX | TDFundamentals-102-routingYourContent.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-routingYourContent.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-routingYourContent.tox
-
-TOX | TDFundamentals-102-liveSources.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-liveSources.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-liveSources.tox
-
-TOX | TDFundamentals-102-workingWithImageFiles.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-workingWithImageFiles.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-workingWithImageFiles.tox
-
-TOX | TDFundamentals-102-mattesAndMasks.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-mattesAndMasks.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-mattesAndMasks.tox
-
-TOX | TDFundamentals-102-creatingFeedback.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-creatingFeedback.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-creatingFeedback.tox
-
-TOX | TDFundamentals-102-workingWithVideoFiles.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-workingWithVideoFiles.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-workingWithVideoFiles.tox
-
-TOX | TDFundamentals-102-creatingABloomEffect.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-creatingABloomEffect.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-creatingABloomEffect.tox
-
-TOX | TDFundamentals-101-OPCreateDialog.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-OPCreateDialog.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-OPCreateDialog.tox
-
-TOX | TDFundamentals-101-COMPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-COMPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-COMPs.tox
-
-TOX | TDFundamentals-101-DATs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-DATs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-DATs.tox
-
-TOX | TDFundamentals-101-operatorAnatomy.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-operatorAnatomy.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-operatorAnatomy.tox
-
-TOX | TDFundamentals-101-opWiresReferencesAndLinks.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-opWiresReferencesAndLinks.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-opWiresReferencesAndLinks.tox
-
-TOX | TDFundamentals-101-TOPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-TOPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-TOPs.tox
-
-TOX | TDFundamentals-101-CHOPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-CHOPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-CHOPs.tox
-
-TOX | TDFundamentals-101-SOPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-SOPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-SOPs.tox
-
-TOX | TDFundamentals-101-networkAnatomy.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-networkAnatomy.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-networkAnatomy.tox
-
-TOX | TDFundamentals-101-userInterface.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-userInterface.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-userInterface.tox
-
-TOX | TDFundamentals-103-timeAndEvents.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-timeAndEvents.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-timeAndEvents.tox
-
-TOX | TDFundamentals-103-manipulatingAudio.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-manipulatingAudio.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-manipulatingAudio.tox
-
-TOX | TDFundamentals-103-kinectCHOP.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-kinectCHOP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-kinectCHOP.tox
-
-TOX | TDFundamentals-103-inputSignalsAndSimulation.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-inputSignalsAndSimulation.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-inputSignalsAndSimulation.tox
-
-TOX | TDFundamentals-103-signalRouting.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-signalRouting.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-signalRouting.tox
-
-TOX | TDFundamentals-103-workingWithSingleSampleCHOPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-workingWithSingleSampleCHOPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-workingWithSingleSampleCHOPs.tox
-
-TOX | TDFundamentals-103-creatingPatternsWithCHOPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-creatingPatternsWithCHOPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-creatingPatternsWithCHOPs.tox
-
-TOX | TDFundamentals-103-eventHistory.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-eventHistory.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-eventHistory.tox
-
-TOX | TDFundamentals-103-controllingOPsWithCHOPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-controllingOPsWithCHOPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-controllingOPsWithCHOPs.tox
-
-TOX | TDFundamentals-103-workingWithMultiSampleCHOPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-workingWithMultiSampleCHOPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-workingWithMultiSampleCHOPs.tox
-
-TOX | TDFundamentals-103-CHOPMath.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-CHOPMath.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-CHOPMath.tox
-
-TOX | TDFundamentals-108-optimization.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-optimization.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-optimization.tox
-
-TOX | TDFundamentals-108-whenDisasterStrikes.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-whenDisasterStrikes.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-whenDisasterStrikes.tox
+TOX | TDFundamentals-108-exploringExamplesInOPSnippets.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox
 
 TOX | TDFundamentals-108-theTouchDesinerWiki.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-theTouchDesinerWiki.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-theTouchDesinerWiki.tox
 
-TOX | TDFundamentals-108-exploringThePalette.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringThePalette.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringThePalette.tox
+TOX | TDFundamentals-108-whenDisasterStrikes.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-whenDisasterStrikes.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-whenDisasterStrikes.tox
 
 TOX | TDFundamentals-108-interoperabilityOpportunities.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-interoperabilityOpportunities.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-interoperabilityOpportunities.tox
+
+TOX | TDFundamentals-108-exploringThePalette.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringThePalette.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringThePalette.tox
 
 TOX | TDFundamentals-108-TouchDesignerPythonExamples.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-TouchDesignerPythonExamples.tox
@@ -256,27 +28,255 @@ TOX | TDFundamentals-108-joinTheForum.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-joinTheForum.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-joinTheForum.tox
 
-TOX | TDFundamentals-108-exploringExamplesInOPSnippets.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox
+TOX | TDFundamentals-108-optimization.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-optimization.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-optimization.tox
 
-TOX | TDFundamentals-105-pathsOfOperatorsAndNetworks.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-pathsOfOperatorsAndNetworks.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-pathsOfOperatorsAndNetworks.tox
+TOX | TDFundamentals-107-evaluatingExpressions.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-evaluatingExpressions.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-evaluatingExpressions.tox
 
-TOX | TDFundamentals-105-outputtingToDisplays.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-outputtingToDisplays.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-outputtingToDisplays.tox
+TOX | TDFundamentals-107-scriptingEventsWithCallbacks.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-scriptingEventsWithCallbacks.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-scriptingEventsWithCallbacks.tox
+
+TOX | TDFundamentals-107-loadingDataSourcesFromTheWeb.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-loadingDataSourcesFromTheWeb.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-loadingDataSourcesFromTheWeb.tox
+
+TOX | TDFundamentals-107-readingAndUsingTheTextport.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-readingAndUsingTheTextport.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-readingAndUsingTheTextport.tox
+
+TOX | TDFundamentals-107-executeAndCallbackAnatomy.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-executeAndCallbackAnatomy.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-executeAndCallbackAnatomy.tox
+
+TOX | TDFundamentals-107-textAndTables.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-textAndTables.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-textAndTables.tox
+
+TOX | TDFundamentals-107-essentialPythonExpressions.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-essentialPythonExpressions.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-essentialPythonExpressions.tox
+
+TOX | TDFundamentals-107-referencesAndBindingInParameters.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-referencesAndBindingInParameters.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-referencesAndBindingInParameters.tox
+
+TOX | TDFundamentals-107-parsingJSON.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-parsingJSON.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/107/TDFundamentals-107-parsingJSON.tox
+
+TOX | TDFundamentals-101-COMPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-COMPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-COMPs.tox
+
+TOX | TDFundamentals-101-TOPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-TOPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-TOPs.tox
+
+TOX | TDFundamentals-101-CHOPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-CHOPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-CHOPs.tox
+
+TOX | TDFundamentals-101-OPCreateDialog.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-OPCreateDialog.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-OPCreateDialog.tox
+
+TOX | TDFundamentals-101-userInterface.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-userInterface.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-userInterface.tox
+
+TOX | TDFundamentals-101-operatorAnatomy.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-operatorAnatomy.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-operatorAnatomy.tox
+
+TOX | TDFundamentals-101-networkAnatomy.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-networkAnatomy.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-networkAnatomy.tox
+
+TOX | TDFundamentals-101-opWiresReferencesAndLinks.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-opWiresReferencesAndLinks.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-opWiresReferencesAndLinks.tox
+
+TOX | TDFundamentals-101-DATs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-DATs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-DATs.tox
+
+TOX | TDFundamentals-101-SOPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-SOPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/101/TDFundamentals-101-SOPs.tox
+
+TOX | TDFundamentals-106-fastUIsWithParameterCOMPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-fastUIsWithParameterCOMPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-fastUIsWithParameterCOMPs.tox
+
+TOX | TDFundamentals-106-paletteWidgets.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-paletteWidgets.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-paletteWidgets.tox
+
+TOX | TDFundamentals-106-workingWithPanels.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-workingWithPanels.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-workingWithPanels.tox
+
+TOX | TDFundamentals-106-buildingRelationshipsBetweenParameters.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-buildingRelationshipsBetweenParameters.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-buildingRelationshipsBetweenParameters.tox
+
+TOX | TDFundamentals-106-blocksAndAnchors.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-blocksAndAnchors.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-blocksAndAnchors.tox
+
+TOX | TDFundamentals-106-customParameters.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-customParameters.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-customParameters.tox
+
+TOX | TDFundamentals-102-saveingImagesAndVideo.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-saveingImagesAndVideo.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-saveingImagesAndVideo.tox
+
+TOX | TDFundamentals-102-liveSources.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-liveSources.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-liveSources.tox
+
+TOX | TDFundamentals-102-builidingPatterns.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-builidingPatterns.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-builidingPatterns.tox
+
+TOX | TDFundamentals-102-shapesAndColors.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-shapesAndColors.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-shapesAndColors.tox
+
+TOX | TDFundamentals-102-routingYourContent.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-routingYourContent.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-routingYourContent.tox
+
+TOX | TDFundamentals-102-creatingABloomEffect.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-creatingABloomEffect.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-creatingABloomEffect.tox
+
+TOX | TDFundamentals-102-adjustingImages.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-adjustingImages.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-adjustingImages.tox
+
+TOX | TDFundamentals-102-creatingFeedback.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-creatingFeedback.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-creatingFeedback.tox
+
+TOX | TDFundamentals-102-workingWithImageFiles.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-workingWithImageFiles.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-workingWithImageFiles.tox
+
+TOX | TDFundamentals-102-basicCompositing.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-basicCompositing.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-basicCompositing.tox
+
+TOX | TDFundamentals-102-workingWithVideoFiles.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-workingWithVideoFiles.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-workingWithVideoFiles.tox
+
+TOX | TDFundamentals-102-mattesAndMasks.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-mattesAndMasks.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-mattesAndMasks.tox
+
+TOX | TDFundamentals-104-workingWithCameras.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-workingWithCameras.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-workingWithCameras.tox
+
+TOX | TDFundamentals-104-physicallyBasedRendering.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-physicallyBasedRendering.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-physicallyBasedRendering.tox
+
+TOX | TDFundamentals-104-3DGenerators.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3DGenerators.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3DGenerators.tox
+
+TOX | TDFundamentals-104-essentialProceduralModeling.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-essentialProceduralModeling.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-essentialProceduralModeling.tox
+
+TOX | TDFundamentals-104-animatingSOPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-animatingSOPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-animatingSOPs.tox
+
+TOX | TDFundamentals-104-3dGeometryCOMPFeatures.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3dGeometryCOMPFeatures.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-3dGeometryCOMPFeatures.tox
+
+TOX | TDFundamentals-104-texturingGeometryWithMATs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-texturingGeometryWithMATs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-texturingGeometryWithMATs.tox
+
+TOX | TDFundamentals-104-lightAndShadows.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-lightAndShadows.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-lightAndShadows.tox
+
+TOX | TDFundamentals-104-basicRenderSetup.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-basicRenderSetup.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/104/TDFundamentals-104-basicRenderSetup.tox
+
+TOX | TDFundamentals-103-timeAndEvents.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-timeAndEvents.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-timeAndEvents.tox
+
+TOX | TDFundamentals-103-kinectCHOP.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-kinectCHOP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-kinectCHOP.tox
+
+TOX | TDFundamentals-103-eventHistory.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-eventHistory.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-eventHistory.tox
+
+TOX | TDFundamentals-103-manipulatingAudio.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-manipulatingAudio.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-manipulatingAudio.tox
+
+TOX | TDFundamentals-103-CHOPMath.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-CHOPMath.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-CHOPMath.tox
+
+TOX | TDFundamentals-103-controllingOPsWithCHOPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-controllingOPsWithCHOPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-controllingOPsWithCHOPs.tox
+
+TOX | TDFundamentals-103-workingWithMultiSampleCHOPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-workingWithMultiSampleCHOPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-workingWithMultiSampleCHOPs.tox
+
+TOX | TDFundamentals-103-workingWithSingleSampleCHOPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-workingWithSingleSampleCHOPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-workingWithSingleSampleCHOPs.tox
+
+TOX | TDFundamentals-103-inputSignalsAndSimulation.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-inputSignalsAndSimulation.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-inputSignalsAndSimulation.tox
+
+TOX | TDFundamentals-103-signalRouting.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-signalRouting.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-signalRouting.tox
+
+TOX | TDFundamentals-103-creatingPatternsWithCHOPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-creatingPatternsWithCHOPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/103/TDFundamentals-103-creatingPatternsWithCHOPs.tox
+
+TOX | TDFundamentals-105-organizingOperatorsAndNetworks.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-organizingOperatorsAndNetworks.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-organizingOperatorsAndNetworks.tox
 
 TOX | TDFundamentals-105-panelLayoutAndOrganization.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-panelLayoutAndOrganization.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-panelLayoutAndOrganization.tox
 
+TOX | TDFundamentals-105-outputtingToDisplays.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-outputtingToDisplays.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-outputtingToDisplays.tox
+
 TOX | TDFundamentals-105-performMode.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-performMode.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-performMode.tox
 
-TOX | TDFundamentals-105-organizingOperatorsAndNetworks.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-organizingOperatorsAndNetworks.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-organizingOperatorsAndNetworks.tox
+TOX | TDFundamentals-105-pathsOfOperatorsAndNetworks.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-pathsOfOperatorsAndNetworks.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/105/TDFundamentals-105-pathsOfOperatorsAndNetworks.tox
 
