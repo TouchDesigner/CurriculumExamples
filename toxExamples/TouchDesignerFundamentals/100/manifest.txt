@@ -1,4 +1,4 @@
-TOX Download Manifest | Last Modified 2024-09-23 16:10:06.887110
+TOX Download Manifest | Last Modified 2024-09-24 00:19:52.995784
  
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringExamplesInOPSnippets.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-theTouchDesinerWiki.tox
