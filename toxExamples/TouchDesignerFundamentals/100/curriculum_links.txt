@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2025-11-26 18:31:40.016319
+Curriculum links Manifest | Last Modified 2025-11-26 18:50:41.927630
  
 TOX | TDFundamentals-102-adjustingImages.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-adjustingImages.tox
@@ -80,17 +80,9 @@ TOX | TDFundamentals-109-the-feedback-POP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-the-feedback-POP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-the-feedback-POP.tox
 
-TOX | TDFundamentals-109-groups-in-POPs.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-groups-in-POPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-groups-in-POPs.tox
-
 TOX | TDFundamentals-109-using-color-in-POPs.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-using-color-in-POPs.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-using-color-in-POPs.tox
-
-TOX | TDFundamentals-109-particles-and-point-clouds.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-particles-and-point-clouds.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-particles-and-point-clouds.tox
 
 TOX | TDFundamentals-109-lines-and-metrics-POP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-lines-and-metrics-POP.tox
@@ -99,10 +91,6 @@ https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDe
 TOX | TDFundamentals-109-the-noise-POP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-the-noise-POP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-the-noise-POP.tox
-
-TOX | TDFundamentals-109-using-POP-attributes1.tox
-?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-using-POP-attributes1.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-using-POP-attributes1.tox
 
 TOX | TDFundamentals-109-math-in-POPs.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-math-in-POPs.tox
@@ -119,6 +107,14 @@ https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDe
 TOX | TDFundamentals-109-point-filein-POP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-point-filein-POP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-point-filein-POP.tox
+
+TOX | TDFundamentals-109-fields-in-POPs.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-fields-in-POPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-fields-in-POPs.tox
+
+TOX | TDFundamentals-109-particles.tox
+?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-particles.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-particles.tox
 
 TOX | TDFundamentals-108-joinTheForum.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-joinTheForum.tox

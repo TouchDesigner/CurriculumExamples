@@ -1,4 +1,4 @@
-TOX Download Manifest | Last Modified 2025-11-26 18:31:40.015899
+TOX Download Manifest | Last Modified 2025-11-26 18:50:41.927246
  
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-adjustingImages.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-workingWithImageFiles.tox
@@ -20,16 +20,15 @@ https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDe
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/106/TDFundamentals-106-workingWithPanels.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-fundamentals-of-POPs.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-the-feedback-POP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-groups-in-POPs.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-using-color-in-POPs.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-particles-and-point-clouds.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-lines-and-metrics-POP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-the-noise-POP.tox
-https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-using-POP-attributes1.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-math-in-POPs.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-copy-POP.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-using-POP-attributes.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-point-filein-POP.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-fields-in-POPs.tox
+https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/109/TDFundamentals-109-particles.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-joinTheForum.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-exploringThePalette.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/108/TDFundamentals-108-theTouchDesinerWiki.tox

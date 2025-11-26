@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2025-11-26 18:31:40.017072
+Curriculum links Manifest | Last Modified 2025-11-26 18:50:41.928387
  
 TOX | TDIntermediate-208-KantanMapperAnd2DProjectionMapping.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/208/TDIntermediate-208-KantanMapperAnd2DProjectionMapping.tox
