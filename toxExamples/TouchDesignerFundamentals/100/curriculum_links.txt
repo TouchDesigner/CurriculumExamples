@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2025-11-26 18:50:41.927630
+Curriculum links Manifest | Last Modified 2025-12-02 01:32:11.581799
  
 TOX | TDFundamentals-102-adjustingImages.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-adjustingImages.tox

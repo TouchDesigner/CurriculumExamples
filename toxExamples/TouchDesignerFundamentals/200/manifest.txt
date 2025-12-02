@@ -1,4 +1,4 @@
-TOX Download Manifest | Last Modified 2025-11-26 18:50:41.928109
+TOX Download Manifest | Last Modified 2025-12-02 01:32:11.582297
  
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/208/TDIntermediate-208-KantanMapperAnd2DProjectionMapping.tox
 https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/208/TDIntermediate-208-KantanMapperAnd2DProjectionMapping1.tox
