@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2026-04-23 05:35:36.180719
+Curriculum links Manifest | Last Modified 2026-05-11 03:56:02.315505
  
 TOX | TDFundamentals-102-creatingABloomEffect.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/100/102/TDFundamentals-102-creatingABloomEffect.tox

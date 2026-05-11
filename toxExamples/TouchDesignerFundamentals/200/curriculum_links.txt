@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2026-04-23 05:35:36.181494
+Curriculum links Manifest | Last Modified 2026-05-11 03:56:02.316137
  
 TOX | TDIntermediate-201-convertingDATsAndSOPs.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/TouchDesignerFundamentals/200/201/TDIntermediate-201-convertingDATsAndSOPs.tox
