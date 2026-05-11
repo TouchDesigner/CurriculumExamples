@@ -1,4 +1,4 @@
-Curriculum links Manifest | Last Modified 2026-05-11 03:56:02.314830
+Curriculum links Manifest | Last Modified 2026-05-11 04:01:47.142105
  
 TOX | sweet16TrailCHOP.tox
 ?actionable=1&action=load_tox&remotePath=https://github.com/TouchDesigner/CurriculumExamples/raw/main/toxExamples/sweet16/CHOP/sweet16TrailCHOP.tox
